@@ -150,7 +150,7 @@ def startDownload(src, chapters):
 
 
 #ask for input, starting chapter and how many chapters to download
-startDownload('https://mangadex.org/chapter/109495/1', 2)
+startDownload('https://mangadex.org/chapter/109495/1', 3)
 
 
 #check if files already exists with same folder names
